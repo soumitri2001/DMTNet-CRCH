@@ -1,6 +1,6 @@
 ## Supervision meets Self-supervision: A Deep Multitask Network for Colorectal Cancer Histopathological Analysis, MISP 2022 
 
-Aritra Marik, **Soumitri Chattopadhyay** and Pawan Kumar Singh, “Supervision meets Self-supervision: A Deep Multitask Network for Colorectal Cancer Histopathological Analysis”, _Accepted for Oral Presentation at_ **Intl. Conf. on Machine Intelligence and Signal Processing (MISP), 2022.**
+Aritra Marik, **Soumitri Chattopadhyay** and Pawan Kumar Singh, **“Supervision meets Self-supervision: A Deep Multitask Network for Colorectal Cancer Histopathological Analysis”**, _Accepted for Oral Presentation at_ **Intl. Conf. on Machine Intelligence and Signal Processing (MISP), 2022.**
 
 ## Requirements
 To install the required dependencies run the following in command prompt:
