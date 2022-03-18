@@ -43,12 +43,13 @@ Then, run the code using the command prompt as follows:
 - `--margin` : triplet loss margin value > 0. Default = 0.2
 - `--lambd` : loss balancing factor. Default = 10
 
-<!-- ## Citation
-If you find this article useful in your research, please consider citing:
+## Citation
+If you find this article useful in your research, consider citing us:
 ```
-@InProceedings{marik2022supervision,
-author = {Aritra Marik and Soumitri Chattopadhyay and Pawan Kumar Singh},
-title = {Supervision meets Self-supervision: A Deep Multitask Network for Colorectal Cancer Histopathological Analysis},
-booktitle = {International Conference on Machine Intelligence and Signal Processing (MISP)},
-year = {2022}
-} -->
+@inproceedings{marik2022supervision,
+    author = {Aritra Marik and Soumitri Chattopadhyay and Pawan Kumar Singh},
+    title = {Supervision meets Self-supervision: A Deep Multitask Network for Colorectal Cancer Histopathological Analysis},
+    booktitle = {International Conference on Machine Intelligence and Signal Processing (MISP)},
+    year = {2022}
+}
+```
