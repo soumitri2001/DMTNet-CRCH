@@ -1,6 +1,6 @@
 # Supervision meets Self-Supervision: A Deep Multitask Network for Colorectal Cancer Histopathological Analysis, MISP 2022 
 
-Aritra Marik, **Soumitri Chattopadhyay** and Pawan Kumar Singh, [**“Supervision meets Self-supervision: A Deep Multitask Network for Colorectal Cancer Histopathological Analysis”**](https://github.com/soumitri2001/DMTNet-CRCH), _Accepted for Oral Presentation at_ **Intl. Conf. on Machine Intelligence and Signal Processing (MISP), 2022.**
+Aritra Marik, **Soumitri Chattopadhyay** and Pawan Kumar Singh, [**“Supervision meets Self-supervision: A Deep Multitask Network for Colorectal Cancer Histopathological Analysis”**](https://github.com/soumitri2001/DMTNet-CRCH/raw/main/preprint/DMTNet.pdf), _Accepted for Oral Presentation at_ **Intl. Conf. on Machine Intelligence and Signal Processing (MISP), 2022.**
 
 ⚡ **Update:** Winner of [**Best Paper Award**](https://drive.google.com/file/d/1CTmlRrijHKY5xUPtGd7YdGu3aOvYfw_S/view?usp=sharing) at MISP 2022 ! ⚡
 ## Abstract
